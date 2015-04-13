@@ -7,6 +7,7 @@ Lista de recursos de Python en Español.
     - [Páginas](#páginas)
     - [Proyectos](#proyectos)
 - [Comunidades](#comunidades)
+- [Eventos](#eventos)
 
 ## Libros
 
@@ -43,3 +44,11 @@ Lista de recursos de Python en Español.
 
 
 * [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
+
+
+# Eventos
+
+*Eventos planificados o recurrentes de Python*
+
+* [Python Brasil](http://pythonbrasil.org.br/) - São José Dos Campos - SP, 13 al 17 de Octubre de 2015
+* Wikén de Python - Puerto Rico, Septiembre de 2015
