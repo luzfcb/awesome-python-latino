@@ -9,7 +9,7 @@ Lista de recursos de Python en Español.
 
 ## Libros
 
-*Páginas web sobre Python en Español y/o escritos por autores Latinos *
+*Páginas web sobre Python en Español y/o escritos por autores Latinos*
 
 * [Python para todos](http://mundogeek.net/tutorial-python/) - libro sobre programación en Python escrito por Raúl González Duque. Se trata de un tutorial de Python adecuado para todos los niveles y que puedes descargar totalmente gratis.
 
