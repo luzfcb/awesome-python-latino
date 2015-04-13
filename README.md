@@ -30,21 +30,32 @@ Lista de recursos de Python en Español.
 
 *Videos en Español y/o realizados por programadores de América Latina*
 
-* [Como comenzar un proyecto de Django + Virtualenv](https://www.youtube.com/watch?v=U-WS3n5cDUo) - virtualenv es una herramienta que crea ambientes de Python aislados.
+* Tutoriales en Español
+	* [Como comenzar un proyecto de Django + Virtualenv](https://www.youtube.com/watch?v=U-WS3n5cDUo) - virtualenv es una herramienta que crea ambientes de Python aislados.
+
+* Charlas en conferencias realizados en América latina
+	* Argetina
+		- [PyCon Ar 2014 - Rafaela](https://www.youtube.com/channel/UCa8tmvBoe5L6BGmRcQHF8qw/videos)
+	* Brazil
+		- [Python Brasil[7]](https://www.youtube.com/playlist?list=PLqjh1U8eZaP4GVDc2sB-nbZdim13rUU74)
+		- [Python Brasil[9]](https://www.youtube.com/playlist?list=PLqjh1U8eZaP6TM0tCdLVeiB0LTBkaEBai)
+		- [Plone Conference 2013 ](https://www.youtube.com/playlist?list=PLqjh1U8eZaP4QiTZlx4XFKIannYcMr_am)
 
 # Comunidades
 
-*Lista de correos sobre Python de las comunidades de América Latina*
+*Lista de las comunidades Python de América Latina*
 
-* [Argentina](https://groups.google.com/forum/#!forum/pythonargentina)
-* [Brazil](https://groups.google.com/forum/#!forum/python-brasil)
-* [Chile](https://groups.google.com/forum/#!forum/pythonchile)
-* [Peru](https://groups.google.com/forum/#!forum/python-peru)
-* [Venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
-
-
-* [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
-
+* Lista de correos
+	* [Argentina](https://groups.google.com/forum/#!forum/pythonargentina)
+	* [Brazil](https://groups.google.com/forum/#!forum/python-brasil)
+	* [Chile](https://groups.google.com/forum/#!forum/pythonchile)
+	* [Peru](https://groups.google.com/forum/#!forum/python-peru)
+	* [Uruguay](https://groups.google.com/forum/#!forum/pyuy)
+	* [Venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
+	* [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
+* IRC
+	* [#pyar](http://webchat.freenode.net/?channels=pyar)
+	* [#python-br](http://webchat.freenode.net/?channels=python-br)
 
 # Eventos
 
