@@ -6,6 +6,7 @@ Lista de recursos de Python en Español.
     - [Libros](#libros)
     - [Páginas](#páginas)
     - [Proyectos](#proyectos)
+- [Comunidades](#comunidades)
 
 ## Libros
 
@@ -29,3 +30,16 @@ Lista de recursos de Python en Español.
 *Videos en Español y/o realizados por programadores de América Latina*
 
 * [Como comenzar un proyecto de Django + Virtualenv](https://www.youtube.com/watch?v=U-WS3n5cDUo) - virtualenv es una herramienta que crea ambientes de Python aislados.
+
+# Comunidades
+
+*Lista de correos sobre Python de las comunidades de América Latina*
+
+* [Argentina](https://groups.google.com/forum/#!forum/pythonargentina)
+* [Brazil](https://groups.google.com/forum/#!forum/python-brasil)
+* [Chile](https://groups.google.com/forum/#!forum/pythonchile)
+* [Peru](https://groups.google.com/forum/#!forum/python-peru)
+* [Venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
+
+
+* [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
