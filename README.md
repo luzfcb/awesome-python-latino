@@ -40,9 +40,8 @@ Lista de recursos de Python en Español.
 * [Brazil](https://groups.google.com/forum/#!forum/python-brasil)
 * [Chile](https://groups.google.com/forum/#!forum/pythonchile)
 * [Peru](https://groups.google.com/forum/#!forum/python-peru)
+* [Uruguay](https://groups.google.com/forum/#!forum/pyuy)
 * [Venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
-
-
 * [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
 
 
