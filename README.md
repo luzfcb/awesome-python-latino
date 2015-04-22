@@ -47,7 +47,9 @@ Lista de recursos de Python en Español.
 
 * Lista de correos
 	* [Argentina](https://groups.google.com/forum/#!forum/pythonargentina)
-	* [Brazil](https://groups.google.com/forum/#!forum/python-brasil)
+	* Brazil
+		* [python-brasil](https://groups.google.com/forum/#!forum/python-brasil)
+		* [django-brasil](https://groups.google.com/forum/#!forum/django-brasil)
 	* [Chile](https://groups.google.com/forum/#!forum/pythonchile)
 	* [Paraguay](https://groups.google.com/forum/#!forum/python-paraguay)
 	* [Peru](https://groups.google.com/forum/#!forum/python-peru)
